@@ -8,7 +8,7 @@ I dive in, clean it up, and turn it into clear, actionable insights that help bu
 
 No jargon, no overcomplication, just straightforward solutions with impact.
 
-## 🧠 What I’m Great At
+## What I’m Great At
 ### 🐍 Python
 - Cleaning and analyzing data with pandas and NumPy
 - Automating tasks and repetitive workflows
